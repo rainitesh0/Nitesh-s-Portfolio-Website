@@ -1,0 +1,22 @@
+body {
+  background-color: #F4FCD9;
+}
+
+
+hr {
+  /* Practice Challenge code: border-style: dotted solid;    height: none;  width: 10%;   border-top-style: 50px;  border-right-style: none; border-bottom-style: none; border-left-style: none;  box-sizing: 10px;*/
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+  /*border-width: Used to increase border size.(or say width.)  */
+  width: 7%;
+}
+
+h1 {
+  color: #05595B;
+}
+
+h3 {
+  color: #05595B;
+}
